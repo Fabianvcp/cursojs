@@ -88,9 +88,9 @@ edad >= 18 ? console.log(nombre + ' es mayor de edad') : console.log(nombre + ' 
       i++;
   } */
 
-  /** Sentencia do..while */
+  /** Sentencia do..while 
   var i = 1;
   do{
       console.log(i);
       i++;
-  }while(i <=10)
+  }while(i <=10)*/
